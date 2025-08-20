@@ -22,9 +22,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 #### Windows PowerShell
-git clone https://github.com/edominicduke/weather-report-app-hugging-face.git
+git clone https://github.com/edominicduke/weather-report-app-streamlit.git
 
-cd weather-report-app-hugging-face
+cd weather-report-app-streamlit
 
 python -m venv .venv
 
