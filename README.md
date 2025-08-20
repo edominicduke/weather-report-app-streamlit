@@ -33,7 +33,7 @@ python -m venv .venv
 pip install -r requirements.txt
 
 ### Usage/How to Run Web App
-streamlit run src/streamlit_app.py
+streamlit run report_weather.py
 
 ### Additional Resources
 [OpenWeather's Current Weather API](https://openweathermap.org/current)
