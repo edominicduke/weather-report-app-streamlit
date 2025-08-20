@@ -11,9 +11,9 @@ to report the weather information of any US city that the user prompts for by le
 
 ### Installation/How to Set Up the Code
 #### macOS/Linux
-git clone https://github.com/edominicduke/weather-report-app-hugging-face.git
+git clone https://github.com/edominicduke/weather-report-app-streamlit.git
 
-cd weather-report-app-hugging-face
+cd weather-report-app-streamlit
 
 python3 -m venv .venv
 
