@@ -6,15 +6,14 @@ to report the weather information of any US city that the user prompts for by le
 ## Getting Started
 
 ### Prerequisites
-- Python 3.10+
+- Python 3.10+ (Python Version Used By Project: Python 3.10.0)
 - Git
 
-### Installation
-'''bash
+### Installation/How to Set Up the Code
+#### macOS/Linux
+git clone https://github.com/edominicduke/weather-report-app-hugging-face.git
 
-git clone https://github.com/edominicduke/weather-report-app-streamlit.git
-
-cd weather-report-app-streamlit
+cd weather-report-app-hugging-face
 
 python3 -m venv .venv
 
@@ -22,8 +21,19 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 
-### Usage
-streamlit run report_weather.py
+#### Windows PowerShell
+git clone https://github.com/edominicduke/weather-report-app-hugging-face.git
+
+cd weather-report-app-hugging-face
+
+python -m venv .venv
+
+.\.venv\Scripts\Activate.ps1
+
+pip install -r requirements.txt
+
+### Usage/How to Run Web App
+streamlit run src/streamlit_app.py
 
 ### Additional Resources
 [OpenWeather's Current Weather API](https://openweathermap.org/current)
