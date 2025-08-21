@@ -1,8 +1,7 @@
 # Weather Report App
 
 ## Overview
-This weather report app, developed for my AIPI 503 - Python Bootcamp class at Duke University, is intended
-to report the weather information of any US city that the user prompts for. The reported information includes the current temperature, humidity, and a brief description (cloudy, clear, etc).
+This weather report app is intended to report the weather information of any US city that the user prompts for. The reported information includes the current temperature, humidity, and a brief description (cloudy, clear, etc).
 
 ## Getting Started
 
