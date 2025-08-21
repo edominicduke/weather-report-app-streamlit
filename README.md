@@ -37,8 +37,8 @@ streamlit run report_weather.py
 
 Then open your browser at http://localhost:8501.
 
-### Usage
-* Type the U.S. city you want to check the weather for in the format (city name, state code).
+### Usage Examples
+* Type the U.S. city you want to check the weather for in the format *city name, state code* (ex. Atlanta, GA).
 * Click the "Enter" key after doing so to see the weather report.
 
 ### License
