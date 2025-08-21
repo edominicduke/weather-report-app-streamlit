@@ -35,6 +35,9 @@ pip install -r requirements.txt
 ### Usage/How to Run Web App
 streamlit run report_weather.py
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ### Additional Resources
 [OpenWeather's Current Weather API](https://openweathermap.org/current)
 
