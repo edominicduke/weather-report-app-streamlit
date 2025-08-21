@@ -34,6 +34,7 @@ pip install -r requirements.txt
 
 ### Usage/How to Run Web App
 streamlit run report_weather.py
+
 Then open your browser at http://localhost:8501.
 
 ### License
